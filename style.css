@@ -1,0 +1,44 @@
+.CV {
+  text-align: center;
+}
+.name {
+  text-align: center;
+}
+.skills {
+  background-color: orange;
+  width: 900;
+  height: 100px;
+}
+.lang {
+  font-weight: 600;
+}
+
+.experience {
+  background-color: orange;
+  width: 900;
+  height: 100px;
+}
+
+.aboutMe {
+  background-color: orange;
+  width: 200;
+  height: 100px;
+  text-decoration-color: black;
+}
+
+.info {
+  background-color: orange;
+  width: 200;
+  height: 100px;
+}
+.lorem {
+  background-color: rgb(7, 221, 146);
+  width: fit-content;
+  height: fit-content;
+}
+.ori {
+  text-align: center;
+}
+.nm {
+  text-align: center;
+}
